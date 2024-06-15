@@ -1,2 +1,4 @@
 # data-and-research
-Conduct research to inform development and policy recommendations in Africa. Analyze data to measure impact and improve strategies. Use geographic information systems for environmental monitoring and planning.
+   - Focus: Data analysis and research projects related to climate change, energy, environment, gender equality, and technology.
+   - Contents: Data sets, Jupyter notebooks, R scripts, Python scripts, analysis reports, and visualizations.
+   - Purpose: Analyze data to derive insights, support decision-making, and publish findings to inform stakeholders and the public.
