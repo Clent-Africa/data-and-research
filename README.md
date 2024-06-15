@@ -49,7 +49,7 @@ We welcome contributions from the community. If you are interested in contributi
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Clent-Africa/.github/blob/main/LICENSE) file for more information.
 
 ## Contact
 
